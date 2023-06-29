@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="Yerba Mate: From Sacred Drink to Caffeinated Star"
-       banner="https://commons.wikimedia.org/wiki/File:Ficus_carica_L,_1771.jpg"
+       banner="[https://commons.wikimedia.org/wiki/File:Ficus_carica_L,_1771.jpg](https://commons.wikimedia.org/wiki/File:Ficus_carica_20191125a.jpg)"
        author="Nicole Rosas"
        layout="vertical">
 
