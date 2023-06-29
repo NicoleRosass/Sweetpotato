@@ -11,7 +11,8 @@
 <param ve-image label="Gauchos drinking mate" description="Photograph" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/c/c2/Gauchos_mateando.jpg">
 
 <param ve-image label="Peruvian fig wine" label="Peruvian fig wine" 
-url= "https://upload.wikimedia.org/wikipedia/commons/2/22/Vino_para_brindar_en_a%C3%B1o_nuevo.jpg">
+url= "https://upload.wikimedia.org/wikipedia/commons/2/22/Vino_para_brindar_en_a%C3%B1o_nuevo.jpg" region="
+-1040,130,5200,3843">
        
 <param ve-entity eid="Q414" title="Argentina">
 <param ve-entity eid="Q46429" title=“Guarani people”>
