@@ -20,4 +20,4 @@ url= "https://upload.wikimedia.org/wikipedia/commons/6/6e/.Ipomoea_batatas_flowe
 <param ve-entity eid="Q84263196" title=“COVID-19 pandemic”>
 <param ve-video vid="ZbPDnloNXbg">
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.k000830717">
-<param ve-iframed src="https://archive.org/details/sweetpotatopower0000tudo/page/n9/mode/2up?view=theater">
+<param ve-iframed src="https://archive.org/details/in.ernet.dli.2015.39895/mode/2up?view=theater">
