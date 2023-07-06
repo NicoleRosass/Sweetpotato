@@ -11,7 +11,7 @@
 <param ve-image label="Gauchos drinking mate" description="Photograph" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/c/c2/Gauchos_mateando.jpg">
 
 <param ve-image URL="Ipomoea_batatas_flowers.jpg" label="Sweet potato flower" 
-url= "https://upload.wikimedia.org/wikipedia/commons/2/22/Vino_para_brindar_en_a%C3%B1o_nuevo.jpg" region="
+url= "https://upload.wikimedia.org/wikipedia/commons/6/6e/.Ipomoea_batatas_flowers.jpg" region="
 -1040,130,5200,3843">
        
 <param ve-entity eid="Q414" title="Argentina">
