@@ -13,8 +13,10 @@
 <param ve-image URL="batata.jpg" label="Sweet potato flower" 
 url= "https://upload.wikimedia.org/wikipedia/commons/6/6e/.Ipomoea_batatas_flowers.jpg" region="
 -1040,130,5200,3843">
+
        
 <param ve-entity eid="Q414" title="Argentina">
 <param ve-entity eid="Q46429" title=“Guarani people”>
 <param ve-entity eid="Q84263196" title=“COVID-19 pandemic”>
 <param ve-video vid="ZbPDnloNXbg">
+<param ve-plant-specimen jpid="10.5555/al.ap.specimen.k000830717">
