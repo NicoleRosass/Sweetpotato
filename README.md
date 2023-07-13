@@ -14,7 +14,7 @@
 <param ve-compare url= "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ipomoea_batatas_20171005.jpg/640px-Ipomoea_batatas_20171005.jpg" region="
 -1040,130,5200,3843">
 
-<param ve-knightlab-timeline
+<param ve-knight lab-timeline
 source="1xiDKHAb4wNErlcPcaR4111_FmUH98zuiJvZmyp3YAgs"
 timenav-position="bottom"
 hash-bookmark="false"
