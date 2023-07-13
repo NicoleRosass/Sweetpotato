@@ -14,12 +14,15 @@
 <param ve-compare url= "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ipomoea_batatas_20171005.jpg/640px-Ipomoea_batatas_20171005.jpg" region="
 -1040,130,5200,3843">
 
+## Showing a TIme Line
 <param ve-knight lab-timeline
 source= "1xiDKHAb4wNErlcPcaR4111_FmUH98zuiJvZmyp3YAgs"
 timenav-position="bottom"
 hash-bookmark="false"
 initial-zoom="1"
-height="750">
+height="750"> 
+
+<param ve-map center="Q419" zoom="6">
        
 <param ve-entity eid="Q414" title="Argentina">
 <param ve-entity eid="Q46429" title=“Guarani people”>
