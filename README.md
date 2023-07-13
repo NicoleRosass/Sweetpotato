@@ -11,7 +11,7 @@
 <param ve-image label="Gauchos drinking mate" description="Photograph" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/c/c2/Gauchos_mateando.jpg">
 
 <param ve-compare sync URL="batata.jpg"> 
-<param ve-compare url= "https://upload.wikimedia.org/wikipedia/commons/6/6e/.Ipomoea_batatas_flowers.jpg" region="
+<param ve-compare url= "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ipomoea_batatas_20171005.jpg/640px-Ipomoea_batatas_20171005.jpg" region="
 -1040,130,5200,3843">
 
        
