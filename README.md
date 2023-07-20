@@ -12,6 +12,8 @@
 
 <param ve-image url= "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Four_men_harvesting_red_sweet_potato_at_daytime.jpg/640px-Four_men_harvesting_red_sweet_potato_at_daytime.jpg">
 
+<param ve-map>
+
 <param ve-compare curtain URL="Ipomoea_batatas_2.jpg"> 
 <param ve-compare url= "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ipomoea_batatas_20171005.jpg/640px-Ipomoea_batatas_20171005.jpg" region="
 -1040,130,5200,3843">
